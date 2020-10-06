@@ -13,9 +13,9 @@ This script uses a survey of voters and county names in Kenya that is used to de
 
 ### Challenge 1:
 
-The code challenge 1 of script 2 includes a function that indicates the name of the county and the number of votes that county received. In order to do so, I started by using the upload function to upload a .txt file, which contains the voting information of each individual. I then created a function called county_vote_count(county) and set the counter equals to 0. By using *strip()* and *split()* function, the outputs are split into different lines and the characters in both the left and right are removed.  Then, I used an if statement to count the votes a county received. If the name in the list equals the input county name, then the counter increased by 1. 
+The code Challenge 1 of Script 2 includes a function that indicates the name of the county and the number of votes that county received. In order to do so, I started by using the upload function to upload a .txt file, which contains the voting information of each individual. I then created a function called county_vote_count(county) and set the counter equals to 0. By using *strip()* and *split()* function, the outputs are split into different lines and the characters in both the left and right are removed.  Then, I used an if statement to count the votes a county received. If the name in the list equals the input county name, then the counter increased by 1. 
 
-The process of writing challenge 1 was okay. I came across a problem where I put the ‘count’ in the wrong place. I put it outside the function and kept getting 0 as the result. I fixed it by moving it inside the function. 
+The process of writing Challenge 1 was okay. I came across a problem where I put the ‘count’ in the wrong place. I put it outside the function and kept getting 0 as the result. I fixed it by moving it inside the function. 
 
 ### Challenge 2:
 
